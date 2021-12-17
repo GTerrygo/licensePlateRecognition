@@ -38,4 +38,8 @@ In the SVMPR, running the project in VS and training data with svm:
             .\\data\\data_Plate\\test_images\\ (plate images).  
             
   (4) out_name - the name of final trained xml file.
+  
+  
+  # End
+  Thanks the [blogger](https://www.cnblogs.com/subconscious/) to share his ideas.
 
